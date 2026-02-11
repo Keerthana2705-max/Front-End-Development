@@ -1,8 +1,8 @@
-Demo for registration form:https://keerthana2705-max.github.io/Front-End-Development/registration%20form.html
+Demo for registration form: <a href =https://keerthana2705-max.github.io/Front-End-Development/registration%20form.html>Registration Form</a>
 <img width="1245" height="912" alt="image" src="https://github.com/user-attachments/assets/90e889db-27ad-4290-b112-62f7b6394b32" />
-Demo for personal information page:https://keerthana2705-max.github.io/Front-End-Development/personal%20information.html
+Demo for personal information page:<a href=https://keerthana2705-max.github.io/Front-End-Development/personal%20information.html>Personal Information</a>
 <img width="1676" height="922" alt="image" src="https://github.com/user-attachments/assets/0c38eacc-5eec-4c54-86cb-53eb79d42ae5" />
-Demo for College notice board:https://Keerthana2705-max.github.io/Front-End-Development/college%20notice%20board.html
+Demo for College notice board:<a href=https://Keerthana2705-max.github.io/Front-End-Development/college%20notice%20board.html>College Notice Board</a>
 <img width="1898" height="927" alt="image" src="https://github.com/user-attachments/assets/862064d3-1a39-498b-9421-09ed899340de" />
 
 
