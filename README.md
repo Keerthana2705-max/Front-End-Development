@@ -19,7 +19,7 @@ After login the popup message will displayed:
 After clicking ok it will automatically goes to menu card page:
 <img width="1602" height="902" alt="image" src="https://github.com/user-attachments/assets/8492703c-4172-49e1-ae8e-87218072f437" />
 
-Demo For Simple Navbar Page:<a href=file:///C:/Users/Keerthana%20C/OneDrive/Documents/Keerthana/Java%20Script/navbar.html>Simple Navbar Page</a>
+Demo For Simple Navbar Page:<a href=https:file:///C:/Users/Keerthana%20C/OneDrive/Documents/Keerthana/Java%20Script/navbar.html>Simple Navbar Page</a>
 <img width="1916" height="908" alt="Screenshot 2026-02-26 205105" src="https://github.com/user-attachments/assets/d97db6d8-38ca-4e7c-9e27-eac106978571" />
 
 
