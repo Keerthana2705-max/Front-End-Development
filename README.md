@@ -20,6 +20,12 @@ After clicking ok it will automatically goes to menu card page:
 <img width="1602" height="902" alt="image" src="https://github.com/user-attachments/assets/8492703c-4172-49e1-ae8e-87218072f437" />
 
 Demo For client-side validation form:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Form%20validation.html>Client-side form validation</a>
+<img width="512" height="622" alt="image" src="https://github.com/user-attachments/assets/f5890a45-fc96-442f-8f7a-40658001b828" />
+
+Demo For Hover-card Effects:<a href=https://Keerthana2705-max.github.io/Front-End-Development/hover%20effect.html>Hover Effects</a>
+<img width="742" height="877" alt="image" src="https://github.com/user-attachments/assets/51fa9bd0-be67-4a64-93bf-300326769ddc" />
+
+
 
 
 
