@@ -25,6 +25,10 @@ Demo For client-side validation form:<a href=https://Keerthana2705-max.github.io
 Demo For Hover-card Effects:<a href=https://Keerthana2705-max.github.io/Front-End-Development/hover%20effect.html>Hover Effects</a>
 <img width="742" height="877" alt="image" src="https://github.com/user-attachments/assets/51fa9bd0-be67-4a64-93bf-300326769ddc" />
 
+Demo For Calculator:<a href=href=https://Keerthana2705-max.github.io/Front-End-Development/web%20/calculator.html>Calculator</a>
+<img width="450" height="588" alt="image" src="https://github.com/user-attachments/assets/51068e2a-38dc-4c68-b8cf-c471ec131b68" />
+
+
 
 
 
