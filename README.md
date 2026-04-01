@@ -28,6 +28,10 @@ Demo For Hover-card Effects:<a href=https://Keerthana2705-max.github.io/Front-En
 Demo For Calculator:<a href=https://Keerthana2705-max.github.io/Front-End-Development/calculator.html>Calculator</a>
 <img width="450" height="588" alt="image" src="https://github.com/user-attachments/assets/51068e2a-38dc-4c68-b8cf-c471ec131b68" />
 
+Demo for Digital Clock:<a href=https://Keerthana2705-max.github.io/Front-End-Development/digital%20clock.html>Digital Clock</a>
+<img width="1800" height="787" alt="image" src="https://github.com/user-attachments/assets/dd7c7b86-3eea-47b9-a43f-a68b9bf8083d" />
+
+
 
 
 
