@@ -31,7 +31,7 @@ Demo For Calculator:<a href=https://Keerthana2705-max.github.io/Front-End-Develo
 Demo for Digital Clock:<a href=https://Keerthana2705-max.github.io/Front-End-Development/digital%20clock.html>Digital Clock</a>
 <img width="1800" height="787" alt="image" src="https://github.com/user-attachments/assets/dd7c7b86-3eea-47b9-a43f-a68b9bf8083d" />
 
-Demo for To-Do list:<<a href=https://Keerthana2705-max.github.io/Front-End-Development/To-do%20list.html>To-Do List</a>
+Demo for To-Do list:<a href=https://Keerthana2705-max.github.io/Front-End-Development/To-do%20list.html>To-Do List</a>
 <img width="938" height="797" alt="Screenshot 2026-04-04 104722" src="https://github.com/user-attachments/assets/567d8d88-6dcf-489b-80e0-22b0d6cc9123" />
 
 
