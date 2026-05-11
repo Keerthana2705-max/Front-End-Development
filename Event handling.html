@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All Event Handling Example</title>
+
+<style>
+
+body{
+    font-family:"Times New Roman";
+    text-align:center;
+    background-color:#f2f2f2;
+}
+
+.container{
+    margin-top:80px;
+}
+
+button,input{
+    padding:10px 20px;
+    font-size:16px;
+    margin:10px;
+    cursor:pointer;
+}
+
+#message{
+    font-size:20px;
+    color:blue;
+    margin-top:20px;
+}
+
+</style>
+
+<script>
+
+// Click Event
+function showMessage(){
+document.getElementById("message").innerHTML =
+"Button Click Event Triggered!";
+}
+
+// Mouse Over Event
+function changeColor(){
+document.body.style.backgroundColor="lightyellow";
+}
+
+// Mouse Out Event
+function resetColor(){
+document.body.style.backgroundColor="#f2f2f2";
+}
+
+// Double Click Event
+function doubleClick(){
+document.getElementById("message").innerHTML =
+"Double Click Event Triggered!";
+}
+
+// Key Press Event
+function keyPress(){
+document.getElementById("message").innerHTML =
+"Keyboard Key Pressed!";
+}
+
+// Change Event
+function textChange(){
+document.getElementById("message").innerHTML =
+"Input Value Changed!";
+}
+
+// Focus Event
+function focusEvent(){
+document.getElementById("message").innerHTML =
+"Input Field Focused!";
+}
+
+// Blur Event
+function blurEvent(){
+document.getElementById("message").innerHTML =
+"Input Field Lost Focus!";
+}
+
+// Load Event
+function pageLoaded(){
+alert("Page Loaded Successfully!");
+}
+
+</script>
+</head>
+
+<body onload="pageLoaded()">
+
+<div class="container">
+
+<h2>JavaScript Event Handling</h2>
+
+<!-- Click Event -->
+<button onclick="showMessage()">Click Me</button>
+
+<!-- Mouse Events -->
+<button onmouseover="changeColor()"
+onmouseout="resetColor()">
+Hover Over Me
+</button>
+
+<!-- Double Click Event -->
+<button ondblclick="doubleClick()">
+Double Click Me
+</button>
+
+<br><br>
+
+<!-- Input Events -->
+<input type="text"
+placeholder="Type Something"
+onkeypress="keyPress()"
+onchange="textChange()"
+onfocus="focusEvent()"
+onblur="blurEvent()">
+
+<p id="message"></p>
+
+</div>
+
+</body>
+</html>
