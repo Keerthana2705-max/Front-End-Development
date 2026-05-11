@@ -34,6 +34,15 @@ Demo for Digital Clock:<a href=https://Keerthana2705-max.github.io/Front-End-Dev
 Demo for To-Do list:<a href=https://Keerthana2705-max.github.io/Front-End-Development/To-do%20list.html>To-Do List</a>
 <img width="938" height="797" alt="Screenshot 2026-04-04 104722" src="https://github.com/user-attachments/assets/567d8d88-6dcf-489b-80e0-22b0d6cc9123" />
 
+Demo for Event-Handling:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Event%20handling.html>Event Handling </a>
+Pop-Up Message:
+<img width="775" height="732" alt="image" src="https://github.com/user-attachments/assets/f93dbbac-a356-4f53-8dbe-76c8b7f121c8" />
+After clicking ok on pop-up message it will perform event handling:
+<img width="1275" height="683" alt="image" src="https://github.com/user-attachments/assets/dba20f36-6c91-41fa-923c-ffcb99e20960" />
+
+
+
+
 
 
 
