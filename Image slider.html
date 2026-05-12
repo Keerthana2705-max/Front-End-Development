@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Slider Carousel</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.slider-container{
+    text-align:center;
+}
+
+h1{
+    margin-bottom:20px;
+    color:#333;
+    font-size:35px;
+}
+
+.slider{
+    position:relative;
+    width:700px;
+    height:400px;
+    overflow:hidden;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.3);
+}
+
+.slides{
+    display:flex;
+    width:500%;
+    transition:transform 0.5s ease-in-out;
+}
+
+.slide{
+    position:relative;
+}
+
+.slide img{
+    width:700px;
+    height:400px;
+    object-fit:cover;
+}
+
+.caption{
+    position:absolute;
+    bottom:20px;
+    left:20px;
+    background:rgba(0,0,0,0.5);
+    color:white;
+    padding:10px 15px;
+    border-radius:5px;
+    font-size:20px;
+}
+
+button{
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    background:rgba(0,0,0,0.5);
+    color:white;
+    border:none;
+    padding:12px 18px;
+    cursor:pointer;
+    font-size:22px;
+    border-radius:50%;
+}
+
+button:hover{
+    background:black;
+}
+
+.prev{
+    left:10px;
+}
+
+.next{
+    right:10px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="slider-container">
+
+    <h1>Image Carousel</h1>
+
+    <div class="slider">
+
+        <div class="slides" id="slides">
+
+            <div class="slide">
+                <img src="https://picsum.photos/id/1015/700/400" alt="Nature">
+                <div class="caption">Beautiful Mountains</div>
+            </div>
+
+            <div class="slide">
+                <img src="https://picsum.photos/id/1016/700/400" alt="Forest">
+                <div class="caption">Green Forest</div>
+            </div>
+
+            <div class="slide">
+                <img src="https://picsum.photos/id/1018/700/400" alt="River">
+                <div class="caption">Peaceful River</div>
+            </div>
+
+            <div class="slide">
+                <img src="https://picsum.photos/id/1020/700/400" alt="Beach">
+                <div class="caption">Sunny Beach</div>
+            </div>
+
+            <div class="slide">
+                <img src="https://picsum.photos/id/1024/700/400" alt="Dog">
+                <div class="caption">Cute Dog</div>
+            </div>
+
+        </div>
+
+        <button class="prev" onclick="prevSlide()">❮</button>
+        <button class="next" onclick="nextSlide()">❯</button>
+
+    </div>
+
+</div>
+
+<script>
+
+let currentIndex = 0;
+
+const slides = document.getElementById("slides");
+const totalSlides = document.querySelectorAll(".slide").length;
+
+function showSlide(index){
+    slides.style.transform = `translateX(-${index * 700}px)`;
+}
+
+function nextSlide(){
+
+    currentIndex++;
+
+    if(currentIndex >= totalSlides){
+        currentIndex = 0;
+    }
+
+    showSlide(currentIndex);
+}
+
+function prevSlide(){
+
+    currentIndex--;
+
+    if(currentIndex < 0){
+        currentIndex = totalSlides - 1;
+    }
+
+    showSlide(currentIndex);
+}
+
+// Auto Slide
+setInterval(nextSlide, 10000);
+
+</script>
+
+</body>
+</html>
