@@ -1,4 +1,4 @@
-Demo for registration form: <a href =https://keerthana2705-max.github.io/Front-End-Development/registration%20form.html>Registration Form</a>
+<img width="1443" height="862" alt="image" src="https://github.com/user-attachments/assets/edd1c6c1-4ac9-45aa-9dcc-7fe1c3f773e6" />Demo for registration form: <a href =https://keerthana2705-max.github.io/Front-End-Development/registration%20form.html>Registration Form</a>
 <img width="1245" height="912" alt="image" src="https://github.com/user-attachments/assets/90e889db-27ad-4290-b112-62f7b6394b32" />
 
 Demo for personal information page:<a href=https://keerthana2705-max.github.io/Front-End-Development/personal%20information.html>Personal Information</a>
@@ -39,6 +39,9 @@ Pop-Up Message:
 <img width="775" height="732" alt="image" src="https://github.com/user-attachments/assets/f93dbbac-a356-4f53-8dbe-76c8b7f121c8" />
 After clicking ok on pop-up message it will perform event handling:
 <img width="1275" height="683" alt="image" src="https://github.com/user-attachments/assets/dba20f36-6c91-41fa-923c-ffcb99e20960" />
+
+Demo for Image Slider:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Image%20slider.html>Image slider </a>
+<img width="1443" height="862" alt="image" src="https://github.com/user-attachments/assets/a0244b21-a4ed-4a09-a701-5f6425b535a5" />
 
 
 
