@@ -43,6 +43,10 @@ After clicking ok on pop-up message it will perform event handling:
 Demo for Image Slider:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Image%20slider.html>Image slider </a>
 <img width="1443" height="862" alt="image" src="https://github.com/user-attachments/assets/a0244b21-a4ed-4a09-a701-5f6425b535a5" />
 
+Demo for Responsive Webpage:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Responsive%20webpage.html>Responsive Webpage</a>
+<img width="1897" height="891" alt="image" src="https://github.com/user-attachments/assets/327b4342-6d26-422c-9a86-5a06cacb311d" />
+
+
 
 
 
