@@ -49,6 +49,10 @@ Demo for Responsive Webpage:<a href=https://Keerthana2705-max.github.io/Front-En
 Demo for Bootstrap Components:<a href=https://Keerthana2705-max.github.io/Front-End-Development/bootstarp%components.html>Bootstrap Components</a>
 <img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/b9b85f25-d50b-4cc4-831b-147c831502b0" />
 
+Demo for Font-Awesome:<a href=https://Keerthana2705-max.github.io/Front-End-Development/font%awesome.html>Font-Awesome</a>
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/7484c57d-e10c-4926-9ee8-d4446567b56e" />
+
+
 
 
 
