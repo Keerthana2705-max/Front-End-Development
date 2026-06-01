@@ -55,6 +55,10 @@ Demo for Font-Awesome:<a href=https://Keerthana2705-max.github.io/Front-End-Deve
 Demo for Single Page layout using javascript:<a href=https://Keerthana2705-max.github.io/Front-End-Development/single%20page%20layout%20using%20js.html>Single-Page-Layout </a>
 <img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/703545ca-8661-42a4-aaff-f16cef16a3c6" />
 
+Demo for Counter App:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Counter%20app.html>Counter-App</a>
+<img width="817" height="487" alt="image" src="https://github.com/user-attachments/assets/7fcac4ee-0edd-4180-8d88-a6dda13751b6" />
+
+
 
 
 
