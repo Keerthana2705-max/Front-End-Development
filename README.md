@@ -52,6 +52,9 @@ Demo for Bootstrap Components:<a href=https://Keerthana2705-max.github.io/Front-
 Demo for Font-Awesome:<a href=https://Keerthana2705-max.github.io/Front-End-Development/font%awesome.html>Font-Awesome</a>
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/7484c57d-e10c-4926-9ee8-d4446567b56e" />
 
+Demo for Single Page layout using javascript:<a href=https://Keerthana2705-max.github.io/Front-End-Development/single%20page%20layout%20using%20js.html>Single-Page-Layout </a>
+<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/703545ca-8661-42a4-aaff-f16cef16a3c6" />
+
 
 
 
