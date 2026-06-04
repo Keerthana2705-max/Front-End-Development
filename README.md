@@ -58,6 +58,8 @@ Demo for Single Page layout using javascript:<a href=https://Keerthana2705-max.g
 Demo for Counter App:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Counter%20app.html>Counter-App</a>
 <img width="817" height="487" alt="image" src="https://github.com/user-attachments/assets/7fcac4ee-0edd-4180-8d88-a6dda13751b6" />
 
+Demo for Coffe-Shop Website:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Coffe%20Shop.html>Coffee Shop</a>
+
 
 
 
