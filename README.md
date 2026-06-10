@@ -60,6 +60,7 @@ Demo for Counter App:<a href=https://Keerthana2705-max.github.io/Front-End-Devel
 
 Demo for Coffe-Shop Website:<a href=https://Keerthana2705-max.github.io/Front-End-Development/Coffe%20Shop.html>Coffee Shop</a>
 
+Demo for College App Website<a href=https://Keerthana2705-max.github.io/Front-End-Development/College%20app.html>College App</a>
 
 
 
